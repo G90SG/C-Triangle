@@ -1,1 +1,2 @@
-# C-Triangle to print C is Best
+# C-Triangle 
+program to print C is Best
