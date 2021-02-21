@@ -1,2 +1,2 @@
 # C-Triangle 
-program to print C is Best
+Crogram to print C is Best
